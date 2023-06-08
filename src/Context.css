@@ -1,0 +1,7 @@
+.context {
+    background-color: aqua;
+    border: 1px solid;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}

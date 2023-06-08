@@ -1,0 +1,10 @@
+.column {
+    background-color: lightblue;
+    border: 1px solid;
+    width: 44%;
+}
+
+.column_title {
+    font-weight: bold;
+    text-align: center;
+}
